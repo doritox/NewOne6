@@ -5,3 +5,18 @@
   font-family: "Poppins", sans-serif;
   margin: 0;
 }
+#younum {
+  text-align: center;
+}
+.lotteryW {
+  color: green;
+}
+.lotteryL {
+  color: red;
+}
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
